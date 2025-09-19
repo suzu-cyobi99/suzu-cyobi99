@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm suzu-cyobi99!
+## My Hobby is traveling
 
 <!--
 **suzu-cyobi99/suzu-cyobi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
